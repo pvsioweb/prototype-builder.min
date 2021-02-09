@@ -1,0 +1,27 @@
+{
+  "name": "pvsioweb.prototype-builder.min",
+  "version": "0.0.1",
+  "description": "PVSioweb prototype builder (minified)",
+  "main": "prototype-builder.min.js",
+  "scripts": {
+    "test": "echo \"No test specified yet\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pvsioweb/prototype-builder.min.git"
+  },
+  "keywords": [
+    "pvsioweb",
+    "prototype",
+    "builder",
+    "minified",
+    "pvs",
+    "pvsio"
+  ],
+  "author": "Paolo Masci",
+  "license": "GPLV3",
+  "bugs": {
+    "url": "https://github.com/pvsioweb/prototype-builder.min/issues"
+  },
+  "homepage": "https://github.com/pvsioweb/prototype-builder.min#readme"
+}
