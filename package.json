@@ -1,6 +1,6 @@
 {
   "name": "pvsioweb.prototype-builder.min",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "PVSioweb prototype builder (minified)",
   "main": "prototype-builder.min.js",
   "scripts": {
