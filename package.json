@@ -1,11 +1,8 @@
 {
   "name": "pvsioweb.prototype-builder.min",
-  "version": "0.0.10",
+  "version": "0.0.11",
   "description": "PVSioweb prototype builder (minified)",
-  "main": "prototype-builder.min.js",
-  "scripts": {
-    "test": "echo \"No test specified yet\" && exit 1"
-  },
+  "main": "builder.min.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/pvsioweb/prototype-builder.min.git"
